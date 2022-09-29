@@ -4,7 +4,7 @@
     l'objectif est de pouvoir créer trois scripts et de pouvoir les corriger en cas de problème.
 
 ## Choix des langages des scripts 
-    Nous avons choisi dans ce projet de travailler sur le langage ***PYTHON***
+    Nous avons choisi dans ce projet de travailler sur le langage **PYTHON**
 
 ## Choix du Workflow
      - Nous avons choisi le Feature branch Workflow.
